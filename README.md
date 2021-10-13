@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @biorebel
+- 👀 I’m interested in GIS, Digital Earth Platforms
+- 🌱 I’m currently learning GIS modelling
+- 💞️ I’m looking to collaborate on opensource GIS
+- 📫 How to reach me: eugenio.pap@gmail.com
